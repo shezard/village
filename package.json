@@ -1,0 +1,31 @@
+{
+  "name": "dungeon",
+  "version": "1.0.0",
+  "description": "A simple game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "webpack": "webpack"
+  },
+  "author": "Damien Fayol",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shezard/dungeon.git"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.5.0",
+    "lodash": "^4.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "webpack": "^4.12.0",
+    "webpack-cli": "^3.0.3"
+  }
+}
