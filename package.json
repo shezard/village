@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shezard/dungeon.git"
+    "url": "git://github.com/shezard/village.git"
   },
   "devDependencies": {
     "jest": "^23.1.0"
