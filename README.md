@@ -1,6 +1,6 @@
-# Dungeon
+# Village
 
-A simple javascript rpg
+A simple village manager game
 
 ### Install
 
